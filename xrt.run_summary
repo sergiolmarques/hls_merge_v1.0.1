@@ -1,0 +1,27 @@
+{
+    "schema_version": {
+        "major": "1",
+        "minor": "4",
+        "patch": "0"
+    },
+    "generation": {
+        "this_file": "\/home\/smarques\/hls_merge_v1.0.1\/xrt.run_summary",
+        "source": "vp",
+        "PID": "149779",
+        "timestamp": "1786310572750",
+        "target": "TT_HW_EMU",
+        "flags": [
+            ""
+        ]
+    },
+    "files": [
+        {
+            "name": "native_trace.csv",
+            "type": "VP_TRACE"
+        },
+        {
+            "name": "summary.csv",
+            "type": "PROFILE_SUMMARY"
+        }
+    ]
+}
